@@ -1,10 +1,8 @@
 const CONFIG = {
     titleWeb: "Gửi cho .....<3",
-    introTitle: 'Đỗ Thị Vân Trang',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Mai Max',
+    introDesc: `Nay cuối tuần, thiên thời địa lợi nhân hòa
+    , Anh có thể mwời em đi xem phim không ^^`,
     btnIntro: '^^Click_HiHi^^',
     title: 'Phải chăng đã yêu em ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng đã say em ngay từ lúc thấy nụ cười ấy ',
