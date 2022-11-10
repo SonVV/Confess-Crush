@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "Gửi cho .....<3",
     introTitle: 'Huyền Nguyễn',
-    introDesc: `Nóc nhà trưa nay ăn gì dóa, em đỡ đau bụng chưa
+    introDesc: `Nóc nhà trưa nay ăn gì đóa, em đỡ đau bụng chưa.
     Có quạu hem cho cho nóc nhà xả lên tấm tân bé bỏng này nè ^^`,
     btnIntro: '^^Click_HiHi^^',
-    title: 'ahjhj Vợ a thấy cái nì hay hem 🥰',
+    title: 'ahjhj nóc nhà a thấy cái nì hay hem 🥰',
     desc: 'Gọi là Ck đê, ưng hem ^^',
     btnYes: 'Ưng lắm <33',
     btnNo: 'Không nha :3',
