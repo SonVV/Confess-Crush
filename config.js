@@ -1,8 +1,7 @@
 const CONFIG = {
     titleWeb: "Gửi cho .....<3",
-    introTitle: 'Mai Max',
-    introDesc: `Nay cuối tuần, thiên thời địa lợi nhân hòa
-    , Anh có thể mời em đi xem phim không ^^`,
+    introTitle: 'Huyền Nguyễn',
+    introDesc: `Nóc nhà q, ^^`,
     btnIntro: '^^Click_HiHi^^',
     title: 'Có phim mới của vũ trụ Marvel mới ra 🥰',
     desc: 'Cho phép anh qua đón em cùng đi xem nhé ^^',
