@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Nóc nhà trưa nay ăn gì đóa, em đỡ đau bụng chưa.
     Có quạu hem cho cho nóc nhà xả lên tấm tân bé bỏng này nè ^^`,
     btnIntro: '^^Click_HiHi^^',
-    title: 'ahjhj nóc nhà a thấy cái nì hay hem 🥰',
+    title: 'ahjhj nóc nhà thấy cái nì hay hem 🥰',
     desc: 'Gọi là Ck đê, ưng hem ^^',
     btnYes: 'Ưng lắm <33',
     btnNo: 'Không nha :3',
